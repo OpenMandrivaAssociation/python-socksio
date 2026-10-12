@@ -1,6 +1,6 @@
 Name:		python-socksio
 Version:	1.0.0
-Release:	1
+Release:	2
 Summary:	Sans-I/O implementation of SOCKS4, SOCKS4A, and SOCKS5
 License:	MIT
 Group:		Development/Python

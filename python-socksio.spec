@@ -32,7 +32,6 @@ license = "MIT"
 authors = [{name = "Seth Michael Larson", email = "sethmichaellarson@gmail.com"}]
 dynamic = ["version"]
 classifiers = [
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3 :: Only",
     "Topic :: Internet :: Proxy Servers",
 ]
